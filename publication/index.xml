@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Rongting Huang</title>
-    <link>https://Rongtingting.github.io/publication/</link>
-    <description>Recent content in Publications on Rongting Huang</description>
+    <title>Publications on  Qihao Wu</title>
+    <link>https://rongtingh.github.io/publication/</link>
+    <description>Recent content in Publications on  Qihao Wu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2022 Rongting Huang</copyright>
+    <copyright>&amp;copy; 2022 Qihao Wu</copyright>
     
-	<atom:link href="https://Rongtingting.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rongtingh.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>MQuad</title>
-      <link>https://Rongtingting.github.io/publication/mquad/</link>
+      <link>https://rongtingh.github.io/publication/mquad/</link>
       <pubDate>Tue, 01 Mar 2022 10:02:07 +0800</pubDate>
       
-      <guid>https://Rongtingting.github.io/publication/mquad/</guid>
+      <guid>https://rongtingh.github.io/publication/mquad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Systematic characterization and prediction of post-translational modification cross-talk between proteins</title>
-      <link>https://Rongtingting.github.io/publication/ptm-x-inter-2018/</link>
+      <link>https://rongtingh.github.io/publication/ptm-x-inter-2018/</link>
       <pubDate>Mon, 24 Dec 2018 20:45:13 +0800</pubDate>
       
-      <guid>https://Rongtingting.github.io/publication/ptm-x-inter-2018/</guid>
+      <guid>https://rongtingh.github.io/publication/ptm-x-inter-2018/</guid>
       <description>A valuable tool to identify inter-protein PTM cross-talk at proteome-wide scale.</description>
     </item>
     

@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Rongting Huang</title>
-    <link>https://Rongtingting.github.io/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Rongting Huang</description>
+    <title>Recent &amp; Upcoming Talks on  Qihao Wu</title>
+    <link>https://rongtingh.github.io/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on  Qihao Wu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2022 Rongting Huang</copyright>
+    <copyright>&amp;copy; 2022 Qihao Wu</copyright>
     
-	<atom:link href="https://Rongtingting.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rongtingh.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>RPG seminar: XClone</title>
-      <link>https://Rongtingting.github.io/talk/rpgseminar-xclone/</link>
+      <link>https://rongtingh.github.io/talk/rpgseminar-xclone/</link>
       <pubDate>Fri, 29 Apr 2022 17:00:00 +0800</pubDate>
       
-      <guid>https://Rongtingting.github.io/talk/rpgseminar-xclone/</guid>
+      <guid>https://rongtingh.github.io/talk/rpgseminar-xclone/</guid>
       <description>XClone</description>
     </item>
     
     <item>
       <title>Report_PTM-X_inter</title>
-      <link>https://Rongtingting.github.io/talk/report_ptm-x-inter/</link>
+      <link>https://rongtingh.github.io/talk/report_ptm-x-inter/</link>
       <pubDate>Wed, 16 Jan 2019 13:00:29 +0800</pubDate>
       
-      <guid>https://Rongtingting.github.io/talk/report_ptm-x-inter/</guid>
+      <guid>https://rongtingh.github.io/talk/report_ptm-x-inter/</guid>
       <description></description>
     </item>
     

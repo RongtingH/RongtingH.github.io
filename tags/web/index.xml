@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>WEB on Rongting Huang</title>
-    <link>https://Rongtingting.github.io/tags/web/</link>
-    <description>Recent content in WEB on Rongting Huang</description>
+    <title>WEB on  Qihao Wu</title>
+    <link>https://rongtingh.github.io/tags/web/</link>
+    <description>Recent content in WEB on  Qihao Wu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2022 Rongting Huang</copyright>
+    <copyright>&amp;copy; 2022 Qihao Wu</copyright>
     <lastBuildDate>Sat, 23 Mar 2019 21:37:43 +0800</lastBuildDate>
     
-	<atom:link href="https://Rongtingting.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rongtingh.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Github_pages &amp; Hugo &amp; Academic theme</title>
-      <link>https://Rongtingting.github.io/post/github_pagesplushugo/</link>
+      <link>https://rongtingh.github.io/post/github_pagesplushugo/</link>
       <pubDate>Sat, 23 Mar 2019 21:37:43 +0800</pubDate>
       
-      <guid>https://Rongtingting.github.io/post/github_pagesplushugo/</guid>
+      <guid>https://rongtingh.github.io/post/github_pagesplushugo/</guid>
       <description>Build my Github Pages by Hugo based on the theme of Academic.</description>
     </item>
     
